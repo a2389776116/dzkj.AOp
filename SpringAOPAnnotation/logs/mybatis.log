@@ -1,0 +1,4 @@
+2019-08-10 11:01:09  [ main:0 ] - [ INFO ]  当前目标对象：com.dzkj.biz.UserBiz@436813f3
+2019-08-10 11:01:09  [ main:1 ] - [ INFO ]  当前调用的方法：findAll
+2019-08-10 14:45:43  [ main:0 ] - [ INFO ]  当前目标对象：com.dzkj.biz.UserBiz@2177849e
+2019-08-10 14:45:43  [ main:1 ] - [ INFO ]  当前调用的方法：findAll
